@@ -14,7 +14,7 @@ This paper explores the potential of some popular machine learning methods for p
 ![Credit_level_distr](https://user-images.githubusercontent.com/61200938/125354272-4a73ac80-e36c-11eb-80c9-256a9c75489d.png)
 
 
-# ltv impact (the ratio of the size of the loan to the value of the asset (in %))
+# ltv impact (the ratio of the size of the loan to the value of the asset (%))
 
 ![ltv_bins](https://user-images.githubusercontent.com/61200938/125354291-4e9fca00-e36c-11eb-9add-507192ea1011.png)
 ![ltv_distr](https://user-images.githubusercontent.com/61200938/125354297-50698d80-e36c-11eb-82fc-18cb75c6f41f.png)
